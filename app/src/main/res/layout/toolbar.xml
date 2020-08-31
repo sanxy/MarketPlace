@@ -1,7 +1,7 @@
 <androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/main_appbar"
-    android:background="@android:color/holo_blue_dark"
+    android:background="@android:color/black"
     style="?attr/toolbarStyle"
     android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
     android:layout_width="match_parent"
